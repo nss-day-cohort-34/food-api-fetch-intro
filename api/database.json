@@ -1,0 +1,34 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Linguine",
+      "category": "pasta",
+      "ethnicity": "italian"
+    },
+    {
+      "id": 2,
+      "name": "Massaman curry",
+      "category": "curry",
+      "ethnicity": "thai"
+    },
+    {
+      "name": "Red curry",
+      "category": "curry",
+      "ethnicity": "thai",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Ravioli Funghi",
+      "category": "pasta",
+      "ethnicity": "italian"
+    },
+    {
+      "name": "Burgers",
+      "category": "sandwich",
+      "ethnicity": "American",
+      "id": 6
+    }
+  ]
+}
